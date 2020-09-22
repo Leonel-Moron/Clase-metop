@@ -454,6 +454,7 @@ dmypy.json
 .pytype/
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
